@@ -1,0 +1,56 @@
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(92, 89, 89);}
+.square {
+    height: 600px;
+    width: 1500px;
+    border: 5px solid blue;
+    border-image: linear-gradient(to left , #78ffd6, #007991
+    );
+    border-image-slice: 1;
+}
+h1{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+  
+}
+h4{
+    color:aliceblue;
+}
+.khaoula
+{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    display:flex;
+    align-items:first baseline;
+    justify-content: flex-end;
+    height: 100vh;
+
+}
+.mk{
+    color: white;
+    font-family: Arial, sans-serif;
+    background: black;
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid blue;
+    border-image: linear-gradient(to left , #78ffd6, #007991);
+    border-image-slice: 1;
+    font-size: 1.3em;
+    font-weight: 700;
+    position: relative;
+
+}
+l {
+    border:2px solid black;
+    height: 40px;
+    width: 190px;
+    }
